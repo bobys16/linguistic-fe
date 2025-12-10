@@ -177,6 +177,11 @@ If you encounter any issues or have questions, please open an issue on GitHub:
 - Frontend Issues: [https://github.com/bobys16/linguistic-fe/issues](https://github.com/bobys16/linguistic-fe/issues)
 - Backend Issues: [https://github.com/bobys16/linguistic-be/issues](https://github.com/bobys16/linguistic-be/issues)
 
+## Author
+
+**Bondan Charisnanda**  
+Master's degree student in English Language Teaching
+
 ## 🙏 Acknowledgments
 
 Designed for educational purposes in psycholinguistics and second language acquisition courses for Master's degree programs in ELT and Applied Linguistics.
